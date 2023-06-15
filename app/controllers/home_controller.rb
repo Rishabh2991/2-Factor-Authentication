@@ -1,8 +1,7 @@
 class HomeController < ApplicationController
-
   def index
   end
 
-  def workspace
+  def dashboard
   end
 end
