@@ -66,3 +66,7 @@ gem "railties", ">= 4.1.0"
 gem "responders"
 gem "warden", "~> 1.2.3"
 gem "devise", "~> 4.9"
+
+gem 'devise-two-factor'
+gem 'rqrcode'
+gem 'simple_form'
