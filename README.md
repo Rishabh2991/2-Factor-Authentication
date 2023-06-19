@@ -45,3 +45,16 @@ Follow secure practices and standards when storing and handling passwords and se
 <img width="1421" alt="Screenshot 2023-06-19 at 9 47 28 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/6faa5354-f136-4922-8889-ebd60aee92c8">
 
 <img width="689" alt="Screenshot 2023-06-19 at 9 48 19 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/74673f0f-ae71-4474-b4f0-1d80faa687d7">
+
+Feature:
+1. User can sign up using a email and password combination.
+2. User can choose to add a Two factor authenticationfrom account settings page.
+3. Add two factor page is loaded with a qr code which can be scanned through Google Authentictor or Authy.
+4. I have also integrated the backup codes flow as suggested by the devise-two-factor official documentation.
+5. User can also choose to disable two factor authentication from account settings page.
+
+Notes:
+1. In my opinion this implementation is more about integrating the right gems as per official documentation suggests. I have mostly followed the readmes of Devise and Devise Two Factor so havent found scopes of refactoring their services, but please let me know if thats needed.I have provided links to all the documents I have followed along with the gems that I used.
+2. I have not yet committed any specs to this PR , but let me know if thats needed.
+3. I have not spent much time enhancing the UI design as I wanted to showcase the backend implementation of two factor authentication.
+primarily
