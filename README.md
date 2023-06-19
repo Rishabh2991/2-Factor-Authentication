@@ -36,15 +36,13 @@ Follow secure practices and standards when storing and handling passwords and se
    3. Devise Two Factor [https://github.com/tinfoil/devise-two-factor]
    4. Rqrcode [https://github.com/whomwah/rqrcode]
    5. SimpleForm [https://github.com/heartcombo/simple_form]
-   
-   
-<img width="1202" alt="Screenshot 2023-06-19 at 9 47 00 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/a29076a8-c5d4-41d0-b90d-bd08eac99ced">
-   
-<img width="532" alt="Screenshot 2023-06-19 at 9 47 19 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/4a10d9e2-6ad1-4128-b1dd-8da93b66d5a5">
 
-<img width="1421" alt="Screenshot 2023-06-19 at 9 47 28 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/6faa5354-f136-4922-8889-ebd60aee92c8">
+<img width="1202" alt="Screenshot 2023-06-19 at 9 47 00 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/1f4dca2d-7992-4855-b45d-6a5e8d803ff4">
+<img width="532" alt="Screenshot 2023-06-19 at 9 47 19 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/c8a2731f-682b-4aa2-98f9-2fc72bd2aba9">
+<img width="1421" alt="Screenshot 2023-06-19 at 9 47 28 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/2ac78704-e050-496d-8045-919a81762948">
+<img width="1420" alt="Screenshot 2023-06-19 at 9 48 13 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/732d69d9-a170-49de-9f80-73363877451a">
+<img width="689" alt="Screenshot 2023-06-19 at 9 48 19 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/a78d7b6e-78b6-43d3-abae-16968e156949">
 
-<img width="689" alt="Screenshot 2023-06-19 at 9 48 19 AM" src="https://github.com/Rishabh2991/2FAAuthModule/assets/22934371/74673f0f-ae71-4474-b4f0-1d80faa687d7">
 
 Feature:
 1. User can sign up using a email and password combination.
