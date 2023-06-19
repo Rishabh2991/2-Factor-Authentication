@@ -56,5 +56,4 @@ Feature:
 Notes:
 1. In my opinion this implementation is more about integrating the right gems as per official documentation suggests. I have mostly followed the readmes of Devise and Devise Two Factor so havent found scopes of refactoring their services, but please let me know if thats needed.I have provided links to all the documents I have followed along with the gems that I used.
 2. I have not yet committed any specs to this PR , but let me know if thats needed.
-3. I have not spent much time enhancing the UI design as I wanted to showcase the backend implementation of two factor authentication.
-primarily
+3. I have not spent much time enhancing the UI design as I wanted to showcase the backend implementation of two factor authentication primarily.
