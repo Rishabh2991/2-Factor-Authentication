@@ -27,6 +27,9 @@ Handle possible errors during registration, login, and account settings manageme
 Follow secure practices and standards when storing and handling passwords and secret keys.
 
 * Ruby version: 2.5.9
+* Initialzing the app:
+ - Install Docker
+ - run ```docker compose up --build```
 
 * Stack:
  - Rails - 5.2.8
