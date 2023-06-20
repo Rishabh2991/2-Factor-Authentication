@@ -70,3 +70,4 @@ gem "devise", "~> 4.9"
 gem 'devise-two-factor'
 gem 'rqrcode'
 gem 'simple_form'
+gem 'dotenv-rails'
